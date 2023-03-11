@@ -39,5 +39,7 @@ I will use Machine Learning regression analysis to model our data and create the
 
 ### Conclusion
 
-We built A model that predict Student score with 95% variability, Means that 95% for our data can explained by our model, Also our model have a high performance with little or no bias nor variance.
+### Conclusion
+
+We built A model that predicts Student scores with 95% variability, which means that 95% of our data can be explained by our model, Also our model has a high performance with little or no bias or variance.
 
